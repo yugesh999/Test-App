@@ -1,0 +1,1 @@
+/Users/mac/Documents/intulij_flutter/build/app/intermediates/cxx/Debug/4i38g3ek/obj/arm64-v8a

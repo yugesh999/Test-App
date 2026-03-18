@@ -1,0 +1,9 @@
+build/
+.dart_tool/
+*.apk
+*.aab
+*.so
+*.dill
+.idea/
+*.iml
+.vscode/

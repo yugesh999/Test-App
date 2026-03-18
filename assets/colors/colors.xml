@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F9DD2E</color>
+    <color name="colorSecondary">#000000</color>
+    <color name="colorScaffoldBackground">#F5F5F6</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorErrorRed">#F44336</color>
+    <color name="colorTextBlack">#0A0A0A</color>
+    <color name="colorHintText">#A3A3A3</color>
+    <color name="colorBottomNavSelected">#FDF5C4</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBottomNavItemUnselected">#666666</color>
+    <color name="colorGraphPrimary">#59C7F9</color>
+    <color name="colorGraphSecondary">#70F7C1</color>
+    <color name="colorSuccessGreen">#43A048</color>
+    <color name="colorGraphText">#09090B</color>
+    <color name="colorGraphContainerLight">#D3F7FE</color>
+    <color name="colorPercentageText">#058197</color>
+    <color name="colorGreyText">#858585</color>
+    <color name="colorBlackDarkText">#27272A</color>
+    <color name="colorDivider">#ECECEC</color>
+    <color name="colorGreyLightText">#525252</color>
+    <color name="colorOffGrey">#A1A1AA</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorYellow">#FFC107</color>
+    <color name="colorRed">#F44336</color>
+    <color name="colorOffWhite">#F4F4F4</color>
+    <color name="colorBlue">#0EA5E9</color>
+    <color name="colorProductBackground">#FAFAFA</color>
+    <color name="colorProductDescription">#404040</color>
+    <color name="colorDarkGrey">#737373</color>
+    <color name="colorBorder">#D6D3D1</color>
+    <color name="colorBlueLight">#BAE6FD</color>
+    <color name="colorLime">#D9F99D</color>
+    <color name="colorTooltip">#058197</color>
+    <color name="colorTeal">#009688</color>
+
+</resources>

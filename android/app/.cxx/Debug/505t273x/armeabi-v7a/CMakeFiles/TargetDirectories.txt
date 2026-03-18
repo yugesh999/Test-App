@@ -1,0 +1,2 @@
+/Users/sujantuladhar/Documents/HR-Flutter/android/app/.cxx/Debug/505t273x/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/sujantuladhar/Documents/HR-Flutter/android/app/.cxx/Debug/505t273x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
