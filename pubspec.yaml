@@ -32,7 +32,6 @@ dependencies:
   shared_preferences: ^2.0.15
   dropdown_button2:
   pinput:
-#  input:
   permission_handler:
   smooth_page_indicator:
   cached_network_image: ^3.2.1

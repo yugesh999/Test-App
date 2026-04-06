@@ -9,6 +9,7 @@ import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import 'api/http_overrides.dart';
 import 'feature/home_screen.dart';
+import 'feature/main_screen.dart';
 import 'shared/constants/providers_constant.dart';
 import 'shared/services/base_url_fetch.dart';
 import 'shared/singletons/baseurl_singleton.dart';
@@ -100,7 +101,7 @@ class _MyAppState extends State<MyApp> {
             primarySwatch: Colors.blue),
         debugShowCheckedModeBanner: false,
 
-        home: const HomeScreen(),
+        home: const MainScreen(),
 
         routes: Routes.routes,
       ),
