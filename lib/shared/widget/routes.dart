@@ -1,9 +1,11 @@
-
 import '../../feature/home_screen.dart';
+import '../../feature/main_screen.dart';
 
 class Routes {
   static var routes = {
+    MainScreen.routeName: (ctx) => const MainScreen(),
     HomeScreen.routeName: (ctx) => const HomeScreen(),
+
     //auth
     // SignInScreen.routeName: (ctx) => const SignInScreen(),
     // ForgotPasswordScreen.routeName: (ctx) => const ForgotPasswordScreen(),
@@ -49,6 +51,5 @@ class Routes {
     // OffBoardFirstScreen.routeName: (ctx) => const OffBoardFirstScreen(),
     // OffBoardSecondScreen.routeName: (ctx) => const OffBoardSecondScreen(),
     // OffBoardThirdScreen.routeName: (ctx) => const OffBoardThirdScreen(),
-
   };
 }
