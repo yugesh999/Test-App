@@ -1,4 +1,3 @@
-import 'package:demo_project/gen/colors.gen.dart';
 import 'package:demo_project/shared/constants/fonts/font_constants.dart';
 import 'package:demo_project/shared/constants/fonts/size_config.dart';
 import 'package:flutter/material.dart';
@@ -137,7 +136,7 @@ class _HomeScreenState extends State<HomeScreen> {
         BuildText(text: "7-Day Forecast", fontSize: 10.0.medium20px()),
         SizedBox(height: height * 2),
         SizedBox(
-          height: height * 22,
+          height: height * 18,
           child: ListView.builder(
             itemCount: 7,
             itemBuilder: (context, index) {

@@ -25,10 +25,10 @@ android {
     }
 
     defaultConfig {
-        namespace = "com.alpinist.hr"  // ← Add this line
+        namespace = "com.myweather.app" // ← Add this line
 
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.alpinist.hr"
+        applicationId = "com.myweather.app"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
@@ -47,9 +47,9 @@ android {
             // Example: Rename APK to include variant name, version, and date
             if (newName.contains("release")) {
                 newName =
-                    "Alpinist HR-${variant.versionName}-${variant.name}.apk"
+                    "MyWeather App-${variant.versionName}-${variant.name}.apk"
             } else {
-                newName = "Alpinist HR-${variant.versionName}-${variant.name}-debug.apk"
+                newName = "MyWeather App-${variant.versionName}-${variant.name}-debug.apk"
             }
 
             output.outputFileName = newName
@@ -87,7 +87,7 @@ android {
                 "\"https://hr.soanitech.com/api/v1\""
             )
             buildConfigField("String", "DOMAIN", "\"dev\"")
-            resValue("string", "app_name", "Test App")
+            resValue("string", "app_name", "Weather App")
             versionCode = 1
             versionName = "1.0.0"
         }

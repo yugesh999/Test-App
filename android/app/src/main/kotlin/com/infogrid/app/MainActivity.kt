@@ -1,7 +1,7 @@
-package com.alpinist.hr
+package com.myweather.app
 
 import androidx.annotation.NonNull
-import com.alpinist.hr.BuildConfig
+import com.myweather.app.BuildConfig
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.embedding.engine.FlutterEngine
 import io.flutter.plugin.common.MethodChannel
